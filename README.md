@@ -5,4 +5,4 @@ Hey there, this is an example repo. If you've found yourself here, you were prob
 
 There's nothing else to see here. 🙃
 
-there is a change for github pull request.
+there is a change for Github pull request basics.
